@@ -1,0 +1,24 @@
+test
+updateClassifiers
+test
+watch
+watch test
+test watch
+watch --help
+help watch
+test
+~test
+run
+test
+run
+build
+compile
+run
+clean
+run
+scala
+~test
+run
+~run
+~test
+~run

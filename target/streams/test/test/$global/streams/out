@@ -1,0 +1,12 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(Serializer.XmlParserSpec, org.scalatest.tools.Framework$$anon$1@19b3e78, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(LightGroupSpec, org.scalatest.tools.Framework$$anon$1@19b3e78, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(LayerMixerSpec, org.scalatest.tools.Framework$$anon$1@19b3e78, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 567 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 12[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 12, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	LayerMixerSpec[0m
+[0m[[0mdebug[0m] [0m	Serializer.XmlParserSpec[0m
+[0m[[0mdebug[0m] [0m	LightGroupSpec[0m
