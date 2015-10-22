@@ -1,0 +1,44 @@
+
+.nav-items {
+  .nav-item:before {
+    .glyphicon;
+    margin-right: 3px;
+  }
+  .persons{
+    .glyphicon-user;
+  }
+
+  .devices {
+    .glyphicon-phone;
+  }
+}
+
+.navbar {
+  .logo {
+    display:inline-block;
+    vertical-align: top;
+    padding-left: 2em;
+  }
+
+  .navbar-nav {
+    .active {
+      color: @nav-link-hover-bg;
+    }
+  }
+
+  .logo:before {
+    content: '';
+    background-size: contain;
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    margin-right: 8px;
+    margin-top: -14px;
+
+    background-image:url("statics/see-no-evil.png");
+  }
+
+  .logo:hover:before {
+    background-image:url("statics/hear-no-evil.png");
+  }
+}

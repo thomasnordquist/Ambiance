@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mLayerMixerSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32m- should mix color layers in additive mode[0m[0m
+[0m[[0minfo[0m] [0m[32m- should mix color layers in additive mode (different colors)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should mix color layers in destructive mode with full opacity[0m[0m
+[0m[[0minfo[0m] [0m[32m- should mix color layers in destructive mode with half opacity[0m[0m
+[0m[[0minfo[0m] [0m[32m- should mix color layers in multiplication mode with full opacity[0m[0m
+[0m[[0minfo[0m] [0m[32m- should mix color layers with normalization[0m[0m
