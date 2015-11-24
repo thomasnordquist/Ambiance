@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mLightGroupSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mAggregation of LightPoints of child LightGroups to a lightPoints array[0m[0m
+[0m[[0minfo[0m] [0m[32m- should have same amount of children[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be in the right order[0m[0m
