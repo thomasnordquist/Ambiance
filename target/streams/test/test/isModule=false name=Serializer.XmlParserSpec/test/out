@@ -1,5 +1,0 @@
-[0m[[0minfo[0m] [0m[32mXmlParserSpec:[0m[0m
-[0m[[0minfo[0m] [0m[32m- should serialize and deserialize Color[0m[0m
-[0m[[0minfo[0m] [0m[32m- should serialize and deserialize LightPoint[0m[0m
-[0m[[0minfo[0m] [0m[32m- should serialize and deserialize LightGroup (just light points)[0m[0m
-[0m[[0minfo[0m] [0m[32m- should serialize and deserialize LightGroup (sub groups)[0m[0m
